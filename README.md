@@ -101,7 +101,6 @@ Through this project, I have learnt:
 
 ```
 git clone https://github.com/KABILANSRK/LearnJava.git
-cd java-small-projects
 ```
 #### Navigate to the project folder:
 
