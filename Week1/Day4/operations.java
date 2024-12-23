@@ -33,4 +33,19 @@ public class operations {
             return "Not a Palindrome";
         }
     }
+
+    public static void mini(int[] a, int n) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'mini'");
+    }
+
+    public static void maxi(int[] a, int n) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'maxi'");
+    }
+
+    public static void average(int[] a, int n) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'average'");
+    }
 }
