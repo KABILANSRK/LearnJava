@@ -1,6 +1,7 @@
 package Collections;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -22,6 +23,12 @@ public class CollectionList {
 
         System.out.println(obj.contains(300));
 
+
+        Iterator<Integer> it = obj.iterator();
+        while (it.hasNext()) {
+            System.out.println(obj);
+        }
+        
         for (int i=0;i<obj.size();i++) {
             System.out.println(obj.get(i));
         }
